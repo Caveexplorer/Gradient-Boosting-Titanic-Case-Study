@@ -1,0 +1,1 @@
+In this case study we learn about gradient boosting and use it to predict survival rates on the popular Titanic dataset.
